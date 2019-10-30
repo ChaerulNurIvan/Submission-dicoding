@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BungaHias</string>
+    <string name="bunga_name">Bunga Hias</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="harga">Rp.</string>
+    <string name="jenis">Jenis</string>
+</resources>
