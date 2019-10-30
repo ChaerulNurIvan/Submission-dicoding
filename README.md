@@ -1,4 +1,3 @@
 # Submission-dicoding
  lulus-dicoding
- Chaerul nur Ivan
- Nim : 17090056
+ Link : https://www.dicoding.com/users/600830/academies
